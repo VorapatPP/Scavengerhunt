@@ -1,26 +1,50 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
-## How to use this template
+## Scavenger Hunt
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
+## Description
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+Scavenger Hunt is a game that user need to hunt the object or a thing that provide by creator or host. User can collect the score by take a photo and upload it. After that admin will check that photo correct or not if correct user will get score that they can challenge with other user.
 
-### With the Ionic CLI:
+## Project Prototype
+<img src="assets/prototype/prototype001.jpeg">
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+<a href="src/assests/prototype/prototype001.jpeg"></a>
+
+[Link Prototype](https://creator.ionic.io/share/2cee2e895975).
+
+
+## Contributors
+Vorapat Phorncharroenroj
+
+
+## How to run project
 
 ```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myTabs tabs
+$ git clone https://github.com/VorapatPP/Scavengerhunt
+$ cd scavanger
+$ npm install
+$ ionic serve
 ```
 
-Then, to run it, cd into `myTabs` and run:
+IOS Version
 
 ```bash
 $ ionic cordova platform add ios
 $ ionic cordova run ios
 ```
 
-Substitute ios for android if not on a Mac.
+Android version
+
+```bash
+$ ionic cordova platform add android
+$ ionic cordova run android
+```
+## Next feature will be release
+- Login system
+- Upload photo or take a photo
+- Checking task
+- Calculate score
+
+## Issues and bugs
+
 
