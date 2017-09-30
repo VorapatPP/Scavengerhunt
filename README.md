@@ -1,20 +1,24 @@
 
 ## Scavenger Hunt
+This project is a part of Hybrid mobile application developement CS4404
 
 ## Description
 
 Scavenger Hunt is a game that user need to hunt the object or a thing that provide by creator or host. User can collect the score by take a photo and upload it. After that admin will check that photo correct or not if correct user will get score that they can challenge with other user.
 
 ## Project Prototype
-<img src="assets/prototype/prototype001.jpeg">
+<img src="src/assets/prototype/prototype001.jpeg">
 
-<a href="src/assests/prototype/prototype001.jpeg"></a>
+<img src="src/assets/prototype/prototype002.jpeg">
 
-[Link Prototype](https://creator.ionic.io/share/2cee2e895975).
+
+[Link IONIC Prototype](https://creator.ionic.io/share/2cee2e895975).
 
 
 ## Contributors
-Vorapat Phorncharroenroj
+- Vorapat P. 5612690
+- Chawan  V. 5737444
+
 
 
 ## How to run project
